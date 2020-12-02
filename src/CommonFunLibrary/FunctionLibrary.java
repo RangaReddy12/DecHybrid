@@ -204,6 +204,13 @@ Assert.assertEquals(testdata, tabledata,"Categories name is not matching with ta
 Reporter.log(testdata+"    "+tabledata,true);
 
 }
+public static void add()
+{
+	int a=345;
+	int b=5;
+	int c=a+b;
+	System.out.println(c);
+}
 }
 
 
